@@ -7,3 +7,6 @@ body {
     background: #fff;
   }
   
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
